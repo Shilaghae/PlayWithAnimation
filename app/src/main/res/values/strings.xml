@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoveView</string>
+    <string name="play_icon_group">Play Icon Group</string>
+    <string name="play_icon_group_top">Play Icon Group Top</string>
+    <string name="play_icon_group_bottom">Play Icon Group Bottom</string>
+    <string name="snowflake">snowflake</string>
+</resources>

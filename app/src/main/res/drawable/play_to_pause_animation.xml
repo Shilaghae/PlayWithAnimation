@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/play_icon">
+
+    <target
+        android:animation="@animator/rotate_animation"
+        android:name="@string/play_icon_group"/>
+    <target
+        android:animation="@animator/upper_triangle_to_left_rectangle"
+        android:name="@string/play_icon_group_top"/>
+    <target
+        android:animation="@animator/bottom_triangle_to_right_rectangle"
+        android:name="@string/play_icon_group_bottom"/>
+
+</animated-vector>

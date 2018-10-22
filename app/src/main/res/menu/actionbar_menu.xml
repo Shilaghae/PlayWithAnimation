@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/actionbar_menu_snowflake"
+        android:icon="@drawable/snowflake"
+        android:title="@string/snowflake"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/actionbar_menu_play"
+        android:icon="@android:drawable/ic_media_play"
+        android:title="@string/snowflake"
+        app:showAsAction="always"/>
+</menu>
